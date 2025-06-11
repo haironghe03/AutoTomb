@@ -9,7 +9,7 @@ Install dependencies:
 
 _Note: There's other common packages in use, which you can see in config codeblock_
 
-In the jupyter notebook, set global variables for Open API and Meshy API keys, local working directory ("BASE_DIR"), and target Digital Giza Tomb ("MAIN_TOMB_URL"). Run notebook. Note: Although these scripts are meant to be run in sequence without interruption, each code block should be modular enough to start at each step (assuming globals are declared). The final codeblock handles embeddings (via OpenAI), dimension reduction (UMAP), and "type specimen" attribution, which seeks to collapse commonly excavated objects (e.g., potsherds) into a single, representative 3D model while scaling that model proportionally based on the frequency of its appearance in the text. 
+In the jupyter notebook, set global variables for Open API and Meshy API keys, local working directory ("BASE_DIR"), and target Digital Giza Tomb ("MAIN_TOMB_URL"). Run notebook. Note: Although these scripts are meant to be run in sequence without interruption, each code block should be modular enough to start at each step (assuming globals are declared). The final codeblock handles embeddings (via OpenAI), dimension reduction (UMAP), and "type specimen" attribution, which seeks to collapse commonly excavated objects (e.g., potsherds) into a single, representative 3D model while scaling that model proportionally based on frequency. 
 
 ## Throughput
 ![autotomb throughput diagram](https://github.com/Cook4986/AutoTomb/blob/main/autotombPipeline.jpg)
