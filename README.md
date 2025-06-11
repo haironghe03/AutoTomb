@@ -15,10 +15,10 @@ In the jupyter notebook, set global variables for Open API and Meshy API keys, l
 ![autotomb throughput diagram](https://github.com/Cook4986/AutoTomb/blob/main/autotombPipeline.jpg)
 ## Limitations
   - AutoTomb was built to leverage [the HUIT API portal](https://portal.apis.huit.harvard.edu/), so you may need to rewrite portions of the notebook to make direct use of OpenAI endpoints. 
-  - The text-to-3D step is a bottlneck, requiring 300-500 seconds per model (and associated textures) on average, which means realtime visualization isn't possible. 
-  - Although you can [threshold the poly count for Meshy](https://docs.meshy.ai/en/api/image-to-3d), model sets associated with a single tomb can weigh many gigabytes, which will challenge real-time rendering.
+  - [The text-to-3D step](https://docs.meshy.ai/en/api/image-to-3d) is a bottlneck, requiring 300-500 seconds per model (and associated textures) on average, which means realtime visualization isn't possible. 
+  - Although you can threshold the poly count with the Meshy API, complete model sets associated with a single tomb can weigh many gigabytes, which will challenge real-time rendering.
 ## Samples
-Here's my outputs for [Tomb 5110]() ("Western Cemetary"), where excavations began in 1914:
+Here's my outputs for [Tomb 5110](http://giza.fas.harvard.edu/sites/532/full/) ("Western Cemetary"), where excavations began in 1914:
 
 - [Images](https://www.dropbox.com/scl/fo/ed31e0rmdho2n9uamgyi4/AHapCvnLZS9DbbDgF48Q3Yw?rlkey=fsubyf67z0z4uvhq5vg3bwab7&dl=0) (dall-e-3)
 - [Models](https://www.dropbox.com/scl/fo/knlh2zzy6ycreje9vcmod/ALbuRnSmyhCfV8LEasw4vmI?rlkey=tzdlxf0w91j7pjsjchtift6r1&dl=0) (meshy 3)
@@ -27,11 +27,11 @@ Here's my outputs for [Tomb 5110]() ("Western Cemetary"), where excavations bega
 Here's a GIF demonstrating these outputs together, in motion,  viewed in Unity
 ![autotomb Unity GIF](https://github.com/Cook4986/AutoTomb/blob/main/autotombGif.gif)
 ## Next Steps
-- "Finds" (excavation stills) fork, to compare image- and text-to-3D outputs
-- Model set optimization
+- "Finds" ([excavation stills]((http://giza.fas.harvard.edu/sites/532/full/#objects))) fork, to compare image- and text-to-3D outputs
+- Model set optimization (See: "Limitations", above)
 - XR deployment + user testing
 - Interactivity
-  - Toggle-able model labels
+  - Toggle-able model labels for comprehension
   - Model "timelines" (based on excavation date)
 
 ### Cook 2025 [mncook.net](mncook.net)
