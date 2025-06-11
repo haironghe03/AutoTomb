@@ -9,4 +9,4 @@ Takes [Digital Giza tomb page](http://giza.fas.harvard.edu/sites/532/full/) and 
 ![autotomb Unity GIF](https://github.com/Cook4986/AutoTomb/blob/main/autotombGif.gif)
 ## Next Steps
 
-### Cook 2025 (mncook.net)[mncook.net]
+### Cook 2025 [mncook.net](mncook.net)
