@@ -1,6 +1,6 @@
 # AutoTomb
 ![autotomb Unity screencap](https://github.com/Cook4986/AutoTomb/blob/main/autotombScreencap.png)
-Takes [Digital Giza tomb pages](http://giza.fas.harvard.edu/sites/532/full/) and returns a set of AI (Meshy) generated 3D models corresponding to contemporaneous (i.e., ancient Egyptian) object references mentioned in early 20th century excavation diaries. The notebook also returns a log of all prompts, local outputs, and X,Y,Z coordinates for placing the model set in 3D space, including in downstream XR environments. Finally, there's a separate, C# script (ArtifactCloudGenerator.cs) that generates rotating "object clouds" of all tomb models at Unity at runtime. AutoTomb is a targeted fork/refactor of [Longhand](https://github.com/Cook4986/Longhand), which was designed to help humanities researchers navigate and comprehend opaque text corpora by exposing them to the benefits of immersive visualization like depth cues and embodiment. 
+Takes [Digital Giza tomb pages](http://giza.fas.harvard.edu/sites/532/full/) and returns a set of AI (Meshy) generated 3D models corresponding to contemporaneous (i.e., ancient Egyptian) object references mentioned in early 20th century excavation diaries. The notebook also returns a log of all prompts, local outputs, and X,Y,Z coordinates for placing the model set in 3D space, including in downstream XR environments. Finally, there's a separate, C# script (ArtifactCloudGenerator.cs) that generates rotating "object clouds" of all tomb models in Unity at runtime. AutoTomb is a targeted fork/refactor of [Longhand](https://github.com/Cook4986/Longhand), which was designed to help humanities researchers navigate and comprehend opaque text corpora by exposing them to the benefits of immersive visualization like depth cues and embodiment. 
 ## Use
 ### Dependencies
   - [selenium](https://www.selenium.dev/documentation/webdriver/getting_started/)
@@ -18,7 +18,7 @@ In the jupyter notebook, set global variables for Open API and Meshy API keys, l
   - Runtime
   - Model size (See: “Optimization”, below)
 ## Samples
-Here's my outputs for [Tomb 5110]()("Western Cemetary"), where excavations began in 1914:
+Here's my outputs for [Tomb 5110]() ("Western Cemetary"), where excavations began in 1914:
 
 - [Images](https://www.dropbox.com/scl/fo/ed31e0rmdho2n9uamgyi4/AHapCvnLZS9DbbDgF48Q3Yw?rlkey=fsubyf67z0z4uvhq5vg3bwab7&dl=0) (dall-e-3)
 - [Models](https://www.dropbox.com/scl/fo/knlh2zzy6ycreje9vcmod/ALbuRnSmyhCfV8LEasw4vmI?rlkey=tzdlxf0w91j7pjsjchtift6r1&dl=0) (meshy 3)
@@ -27,5 +27,11 @@ Here's my outputs for [Tomb 5110]()("Western Cemetary"), where excavations began
 Below is a GIF demonstrating how these outputs look, together (and in motion), when viewed in Unity
 ![autotomb Unity GIF](https://github.com/Cook4986/AutoTomb/blob/main/autotombGif.gif)
 ## Next Steps
+- "Finds" (excavation stills) fork, to compare image- and text-to-3D outputs
+- Model set optimization
+- XR deployment + user testing
+- Interactivity
+  - Toggle-able model labels
+  - Model "timelines" (based on excavation date)
 
 ### Cook 2025 [mncook.net](mncook.net)
