@@ -24,7 +24,7 @@ Here's my outputs for [Tomb 5110]() ("Western Cemetary"), where excavations bega
 - [Models](https://www.dropbox.com/scl/fo/knlh2zzy6ycreje9vcmod/ALbuRnSmyhCfV8LEasw4vmI?rlkey=tzdlxf0w91j7pjsjchtift6r1&dl=0) (meshy 3)
 - [JSON](https://www.dropbox.com/scl/fi/91s82i63wm3ab6x9254n9/artifacts.json?rlkey=gdsp0jh62mc7vs403i464j8ec&dl=0) (prompts, paths, coordinates)
 
-Below is a GIF demonstrating how these outputs look, together (and in motion), when viewed in Unity
+Here's a GIF demonstrating these outputs together, in motion,  viewed in Unity
 ![autotomb Unity GIF](https://github.com/Cook4986/AutoTomb/blob/main/autotombGif.gif)
 ## Next Steps
 - "Finds" (excavation stills) fork, to compare image- and text-to-3D outputs
