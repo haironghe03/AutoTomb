@@ -34,4 +34,4 @@ Here's a GIF demonstrating these outputs together, in motion,  viewed in Unity
   - Toggle-able model labels for comprehension
   - Model "timelines" (based on excavation date)
 
-### Cook 2025 [mncook.net](mncook.net)
+#### Cook 2025 [mncook.net](https://www.mncook.net/)
