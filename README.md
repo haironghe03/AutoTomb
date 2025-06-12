@@ -16,7 +16,7 @@ In the jupyter notebook, set global variables for OpenAI API and Meshy API keys,
 ## Limitations
   - AutoTomb was built to leverage [the HUIT API portal](https://portal.apis.huit.harvard.edu/), so you may need to rewrite portions of the notebook to make direct use of OpenAI endpoints. 
   - [The text-to-3D step](https://docs.meshy.ai/en/api/image-to-3d) is a bottlneck, requiring 300-500 seconds per model (and associated textures) on average, which means realtime visualization isn't possible. 
-  - Although you can threshold the poly count with the Meshy API, complete model sets associated with a single tomb can weigh many gigabytes, which will challenge real-time rendering.
+  - Although you can limit the target poly count with the Meshy API, complete model sets associated with a single tomb can weigh many gigabytes, which will challenge real-time rendering.
 ## Samples
 Here's my outputs for [Tomb 5110](http://giza.fas.harvard.edu/sites/532/full/) ("Western Cemetary"), where excavations began in 1914:
 
