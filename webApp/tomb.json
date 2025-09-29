@@ -1,0 +1,14 @@
+{
+  "tombs": {
+    "giza-532": {
+      "name": "5110",
+      "description": "Early 20th century excavation diaries",
+      "artifacts_file": "artifacts.json",
+      "models_folder": "models/",
+      "last_updated": "2024-01-15T10:30:00Z",
+      "artifact_count": 0,
+      "type_specimens": 0
+    }
+  },
+  "current_tomb": "giza-5110"
+}

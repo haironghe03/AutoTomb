@@ -1,0 +1,2492 @@
+{
+    "area_cluster": [
+        {
+            "id": "G4940B_fragments_1",
+            "cluster": 42
+        },
+        {
+            "id": "G4940B_fragments_2",
+            "cluster": 43
+        },
+        {
+            "id": "G4940B_reserve_head_1",
+            "cluster": 44
+        },
+        {
+            "id": "G5411_AlabasterStatue_Fragment1",
+            "cluster": 34
+        },
+        {
+            "id": "G5030A-OBJ-001",
+            "cluster": 47
+        },
+        {
+            "id": "G4940-OBJ-001",
+            "cluster": 94
+        },
+        {
+            "id": "G4940-OBJ-002",
+            "cluster": 95
+        },
+        {
+            "id": "G4940-OBJ-003",
+            "cluster": 94
+        },
+        {
+            "id": "G4513_serdab_fragments_01",
+            "cluster": 92
+        },
+        {
+            "id": "G5010A_limestone_blocks_01",
+            "cluster": 45
+        },
+        {
+            "id": "G5010B_limestone_blocks_01",
+            "cluster": 46
+        },
+        {
+            "id": "G5030_offering_chamber_debris_01",
+            "cluster": 93
+        },
+        {
+            "id": "G5030_serdab_limestone_blocks_01",
+            "cluster": 107
+        },
+        {
+            "id": "G5020_G5120_street_limestone_fragments_01",
+            "cluster": 113
+        },
+        {
+            "id": "G5130A_sand_fill_01",
+            "cluster": 50
+        },
+        {
+            "id": "G2200B_19330130_1",
+            "cluster": 11
+        },
+        {
+            "id": "G2200B_19330130_2",
+            "cluster": 11
+        },
+        {
+            "id": "G2200B_19330130_3",
+            "cluster": 11
+        },
+        {
+            "id": "G2370S_19330130_1",
+            "cluster": 61
+        },
+        {
+            "id": "G2370S_19330130_2",
+            "cluster": 61
+        },
+        {
+            "id": "G2370S_19330130_3",
+            "cluster": 61
+        },
+        {
+            "id": "G5230A_19330130_1",
+            "cluster": 20
+        },
+        {
+            "id": "G5110_relief_fragments_01",
+            "cluster": 4
+        },
+        {
+            "id": "G5110_wooden_mallets_01",
+            "cluster": 4
+        },
+        {
+            "id": "G5221A_granite_scribe_head_01",
+            "cluster": 38
+        },
+        {
+            "id": "G5221A_alabaster_statuette_fragments_01",
+            "cluster": 38
+        },
+        {
+            "id": "Sinai_red_porphyry_fragment_01",
+            "cluster": 60
+        },
+        {
+            "id": "obj_19141112_01",
+            "cluster": 54
+        },
+        {
+            "id": "obj_19141112_02",
+            "cluster": 53
+        },
+        {
+            "id": "obj_19141112_03",
+            "cluster": 52
+        },
+        {
+            "id": "obj_19141112_04",
+            "cluster": 55
+        },
+        {
+            "id": "G7410B_MFA27.441_sarcophagus",
+            "cluster": 25
+        },
+        {
+            "id": "G7410B_coffin_end_north",
+            "cluster": 25
+        },
+        {
+            "id": "G7410B_coffin_side_upturned",
+            "cluster": 25
+        },
+        {
+            "id": "G7410B_coffin_end_south",
+            "cluster": 25
+        },
+        {
+            "id": "G5230S_frag_statuette_1",
+            "cluster": 120
+        },
+        {
+            "id": "G5230S_19150119_1",
+            "cluster": 51
+        },
+        {
+            "id": "G5230S_19150119_2",
+            "cluster": 51
+        },
+        {
+            "id": "G5230S_19150119_3",
+            "cluster": 51
+        },
+        {
+            "id": "G5230S_19150119_4",
+            "cluster": 51
+        },
+        {
+            "id": "G5230S_G5220_19150119_1",
+            "cluster": 64
+        },
+        {
+            "id": "G5230S_G5220_19150119_2",
+            "cluster": 64
+        },
+        {
+            "id": "G5230S_G5220_19150119_3",
+            "cluster": 64
+        },
+        {
+            "id": "G5230S_G5220_19150119_4",
+            "cluster": 64
+        },
+        {
+            "id": "G5230S_G5220_19150119_5",
+            "cluster": 64
+        },
+        {
+            "id": "G5110_casingblock_inscription",
+            "cluster": 14
+        },
+        {
+            "id": "G5110_alabaster_statue_fragments",
+            "cluster": 101
+        },
+        {
+            "id": "Giza_pots_and_skulls",
+            "cluster": 86
+        },
+        {
+            "id": "G5110-5220-alabaster-statue-fragments-19141206",
+            "cluster": 68
+        },
+        {
+            "id": "G5110-5220-relief-fragments-19141206",
+            "cluster": 69
+        },
+        {
+            "id": "G5210-chapel-pottery-19141206",
+            "cluster": 17
+        },
+        {
+            "id": "G5221A-sealed-jars-19141206",
+            "cluster": 18
+        },
+        {
+            "id": "G5110_alabaster_statue_fragments_1",
+            "cluster": 99
+        },
+        {
+            "id": "G5110_limestone_relief_fragments_1",
+            "cluster": 108
+        },
+        {
+            "id": "G2370S-1933-01-31-01",
+            "cluster": 61
+        },
+        {
+            "id": "G2370S-1933-01-31-02",
+            "cluster": 61
+        },
+        {
+            "id": "G2370S-1933-01-31-03",
+            "cluster": 61
+        },
+        {
+            "id": "G2370S-1933-01-31-04",
+            "cluster": 61
+        },
+        {
+            "id": "14-11-112",
+            "cluster": 83
+        },
+        {
+            "id": "14-11-92",
+            "cluster": 105
+        },
+        {
+            "id": "14-11-93",
+            "cluster": 105
+        },
+        {
+            "id": "14-11-94",
+            "cluster": 105
+        },
+        {
+            "id": "14-11-95",
+            "cluster": 105
+        },
+        {
+            "id": "14-11-96",
+            "cluster": 105
+        },
+        {
+            "id": "14-11-97",
+            "cluster": 105
+        },
+        {
+            "id": "pot_G5230S_NE",
+            "cluster": 82
+        },
+        {
+            "id": "granite_limestone_fragments_G5230S",
+            "cluster": 77
+        },
+        {
+            "id": "G4940_FD_fragments_1-3",
+            "cluster": 12
+        },
+        {
+            "id": "G4940_skull_1",
+            "cluster": 12
+        },
+        {
+            "id": "G4940_potsherds_1",
+            "cluster": 12
+        },
+        {
+            "id": "G5227B_01",
+            "cluster": 27
+        },
+        {
+            "id": "G5227B_02",
+            "cluster": 27
+        },
+        {
+            "id": "G5227B_03",
+            "cluster": 27
+        },
+        {
+            "id": "G5110-5131-limestone-fragments-19150126",
+            "cluster": 33
+        },
+        {
+            "id": "G5110-5131-alabaster-statuette-arm-19150126",
+            "cluster": 33
+        },
+        {
+            "id": "artifact_001",
+            "cluster": 26
+        },
+        {
+            "id": "artifact_002",
+            "cluster": 26
+        },
+        {
+            "id": "artifact_003",
+            "cluster": 26
+        },
+        {
+            "id": "G5110-5210-1914-12-22-01",
+            "cluster": 2
+        },
+        {
+            "id": "G5210-1914-12-22-02",
+            "cluster": 8
+        },
+        {
+            "id": "G5220D-1914-12-22-03",
+            "cluster": 40
+        },
+        {
+            "id": "G5223A-1914-12-22-04",
+            "cluster": 19
+        },
+        {
+            "id": "pit4-1914-12-22-05",
+            "cluster": 102
+        },
+        {
+            "id": "G5010_pitA_rockcut",
+            "cluster": 13
+        },
+        {
+            "id": "G5413A_01",
+            "cluster": 109
+        },
+        {
+            "id": "G5220B_01",
+            "cluster": 84
+        },
+        {
+            "id": "G5220B_02",
+            "cluster": 106
+        },
+        {
+            "id": "G5220B_03",
+            "cluster": 80
+        },
+        {
+            "id": "G5230_statue_body_fragment",
+            "cluster": 115
+        },
+        {
+            "id": "G5230_statue_fragment_other",
+            "cluster": 115
+        },
+        {
+            "id": "G5230_statue_leg_fragment",
+            "cluster": 115
+        },
+        {
+            "id": "4511-OC-01",
+            "cluster": 118
+        },
+        {
+            "id": "5030-ST-01",
+            "cluster": 116
+        },
+        {
+            "id": "5030B-PI-01",
+            "cluster": 103
+        },
+        {
+            "id": "5030B-PI-02",
+            "cluster": 103
+        },
+        {
+            "id": "4511-OC-02",
+            "cluster": 96
+        },
+        {
+            "id": "G4940B-OC-19150108-01",
+            "cluster": 36
+        },
+        {
+            "id": "G5010-ST-19150108-01",
+            "cluster": 114
+        },
+        {
+            "id": "G5110-SW-19150109-01",
+            "cluster": 110
+        },
+        {
+            "id": "14-11-1",
+            "cluster": 56
+        },
+        {
+            "id": "14-11-3",
+            "cluster": 56
+        },
+        {
+            "id": "14-11-4",
+            "cluster": 56
+        },
+        {
+            "id": "14-11-5",
+            "cluster": 56
+        },
+        {
+            "id": "14-11-6",
+            "cluster": 56
+        },
+        {
+            "id": "14-11-7",
+            "cluster": 56
+        },
+        {
+            "id": "14-11-8",
+            "cluster": 56
+        },
+        {
+            "id": "animal-bone-1914-11-10",
+            "cluster": 0
+        },
+        {
+            "id": "G5030B_LimestoneEar1",
+            "cluster": 49
+        },
+        {
+            "id": "G5030B_LimestoneEar2",
+            "cluster": 49
+        },
+        {
+            "id": "G4513_StatuetteHeadShoulder",
+            "cluster": 96
+        },
+        {
+            "id": "G4513_StatuetteBaseFeet",
+            "cluster": 96
+        },
+        {
+            "id": "G5030B_PotteryFragments",
+            "cluster": 48
+        },
+        {
+            "id": "G5030B_BronzeBowlFragments",
+            "cluster": 48
+        },
+        {
+            "id": "G5012_B_fragments",
+            "cluster": 39
+        },
+        {
+            "id": "G5020_offering_basin_15-1-35",
+            "cluster": 98
+        },
+        {
+            "id": "G5131_pottery_fragments_south",
+            "cluster": 119
+        },
+        {
+            "id": "G5020_pottery_fragments_north",
+            "cluster": 117
+        },
+        {
+            "id": "G5230S-1915-01-19-02",
+            "cluster": 21
+        },
+        {
+            "id": "G5230S-1915-01-19-03",
+            "cluster": 21
+        },
+        {
+            "id": "5230S-5220-1915-01-19-02",
+            "cluster": 111
+        },
+        {
+            "id": "5230S-5220-1915-01-19-03",
+            "cluster": 111
+        },
+        {
+            "id": "G5223_A_royal_alabaster_statue_fragments_1",
+            "cluster": 37
+        },
+        {
+            "id": "G5220_serdab4_skull",
+            "cluster": 122
+        },
+        {
+            "id": "G5220_serdab4_wooden_headrest",
+            "cluster": 122
+        },
+        {
+            "id": "G5220_serdab4_wooden_pieces",
+            "cluster": 122
+        },
+        {
+            "id": "14-11-13-1",
+            "cluster": 121
+        },
+        {
+            "id": "14-11-13-2",
+            "cluster": 121
+        },
+        {
+            "id": "14-11-13-3",
+            "cluster": 121
+        },
+        {
+            "id": "14-11-9",
+            "cluster": 1
+        },
+        {
+            "id": "14-11-10",
+            "cluster": 1
+        },
+        {
+            "id": "14-11-11",
+            "cluster": 1
+        },
+        {
+            "id": "A36-1",
+            "cluster": 73
+        },
+        {
+            "id": "A36-2",
+            "cluster": 73
+        },
+        {
+            "id": "A36-3",
+            "cluster": 74
+        },
+        {
+            "id": "artifact_001",
+            "cluster": 88
+        },
+        {
+            "id": "G4940B-01",
+            "cluster": 7
+        },
+        {
+            "id": "G5010-5110-01",
+            "cluster": 66
+        },
+        {
+            "id": "G5110-01",
+            "cluster": 62
+        },
+        {
+            "id": "G5330A_OK_pottery_001",
+            "cluster": 23
+        },
+        {
+            "id": "G5330A_floor_002",
+            "cluster": 100
+        },
+        {
+            "id": "G5210A_1914-12-24_01",
+            "cluster": 37
+        },
+        {
+            "id": "G5210A_1914-12-24_02",
+            "cluster": 37
+        },
+        {
+            "id": "G5110-5230-PLATFORM-1",
+            "cluster": 87
+        },
+        {
+            "id": "G5110-5230-DEBRIS-POTSHERDS-1",
+            "cluster": 87
+        },
+        {
+            "id": "G5020-ENTRANCE-MUDPLASTER-1",
+            "cluster": 76
+        },
+        {
+            "id": "G5131-EASTWALL-1",
+            "cluster": 89
+        },
+        {
+            "id": "G5130A-CHAMBER-SAND-1",
+            "cluster": 15
+        },
+        {
+            "id": "G5130B-PIT-ROCK-1",
+            "cluster": 16
+        },
+        {
+            "id": "G5130-5230-PLATFORM-2",
+            "cluster": 75
+        },
+        {
+            "id": "G5030-5040-DEBRIS-POTSHERDS-1",
+            "cluster": 104
+        },
+        {
+            "id": "G4940_B_model_pots_1",
+            "cluster": 29
+        },
+        {
+            "id": "G4940_C_model_pots_2",
+            "cluster": 30
+        },
+        {
+            "id": "G4940_A_potsherds_3",
+            "cluster": 31
+        },
+        {
+            "id": "G5110_Slab_01",
+            "cluster": 71
+        },
+        {
+            "id": "G5030_AlabasterJar_01",
+            "cluster": 70
+        },
+        {
+            "id": "G5030_AlabasterJar_02",
+            "cluster": 70
+        },
+        {
+            "id": "G5412A_foundations_19141216",
+            "cluster": 63
+        },
+        {
+            "id": "G5411_quarry_trenches_19141216",
+            "cluster": 9
+        },
+        {
+            "id": "G5220B_pit_19141216",
+            "cluster": 72
+        },
+        {
+            "id": "G5220B_north_wall_fragments_19141216",
+            "cluster": 35
+        },
+        {
+            "id": "G5020-5110-19150120-01",
+            "cluster": 67
+        },
+        {
+            "id": "G5010-5020-19150121-01",
+            "cluster": 65
+        },
+        {
+            "id": "G4940_FD_fragments_01",
+            "cluster": 85
+        },
+        {
+            "id": "G4940_skull_01",
+            "cluster": 85
+        },
+        {
+            "id": "G4940_potsherds_01",
+            "cluster": 85
+        },
+        {
+            "id": "G4940_jar_01",
+            "cluster": 85
+        },
+        {
+            "id": "G4940_jar_02",
+            "cluster": 85
+        },
+        {
+            "id": "G4940_basin_01",
+            "cluster": 85
+        },
+        {
+            "id": "G5030A_bones_01",
+            "cluster": 79
+        },
+        {
+            "id": "G4940_skull_02",
+            "cluster": 97
+        },
+        {
+            "id": "G5210-5220-relief-fragments-1914-12-07",
+            "cluster": 3
+        },
+        {
+            "id": "G5110-alabaster-statuette-fragments-1914-12-07",
+            "cluster": 59
+        },
+        {
+            "id": "G5110-wooden-statuette-fragments-1914-12-07",
+            "cluster": 59
+        },
+        {
+            "id": "G5210-5220-alabaster-statue-fragments-1914-12-08",
+            "cluster": 5
+        },
+        {
+            "id": "G5210-5220-relief-fragments-1914-12-08",
+            "cluster": 5
+        },
+        {
+            "id": "4940_B_RoomB_ModelPotsSaucers_1",
+            "cluster": 57
+        },
+        {
+            "id": "4940_C_ModelPotsSaucers_2",
+            "cluster": 58
+        },
+        {
+            "id": "4940_NE_AlabasterHeadFragment_3",
+            "cluster": 32
+        },
+        {
+            "id": "4930B_Potsherds_4",
+            "cluster": 78
+        },
+        {
+            "id": "4930B_BronzeBowlFragments_5",
+            "cluster": 78
+        },
+        {
+            "id": "G4940_O_limestone_fragments",
+            "cluster": 81
+        },
+        {
+            "id": "G4940_alabaster_head_fragment",
+            "cluster": 91
+        },
+        {
+            "id": "G4930B_bent_bowl",
+            "cluster": 41
+        },
+        {
+            "id": "G4930B_RSW_jars",
+            "cluster": 41
+        },
+        {
+            "id": "G4930B_copper_plate_or_bowl_fragments",
+            "cluster": 41
+        },
+        {
+            "id": "G2200B_1",
+            "cluster": 24
+        },
+        {
+            "id": "G2200B_2",
+            "cluster": 24
+        },
+        {
+            "id": "G2200B_3",
+            "cluster": 24
+        },
+        {
+            "id": "G5230B_1",
+            "cluster": 24
+        },
+        {
+            "id": "G5230B_2",
+            "cluster": 24
+        },
+        {
+            "id": "G5230B_3",
+            "cluster": 24
+        },
+        {
+            "id": "G5210_statue_fragments_1",
+            "cluster": 112
+        },
+        {
+            "id": "14-11-73",
+            "cluster": 22
+        },
+        {
+            "id": "14-11-74",
+            "cluster": 22
+        },
+        {
+            "id": "14-11-75",
+            "cluster": 22
+        },
+        {
+            "id": "14-11-76",
+            "cluster": 22
+        },
+        {
+            "id": "G5110-alabaster-chips",
+            "cluster": 90
+        },
+        {
+            "id": "G2200B_1",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_2",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_3",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_4",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_5",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_6",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_7",
+            "cluster": 28
+        },
+        {
+            "id": "G2200B_8",
+            "cluster": 28
+        },
+        {
+            "id": "G5230A_1",
+            "cluster": 6
+        },
+        {
+            "id": "G2200B_9",
+            "cluster": 10
+        }
+    ],
+    "excavation_cluster": [
+        {
+            "id": "G4940B_fragments_1",
+            "cluster": 28
+        },
+        {
+            "id": "G4940B_fragments_2",
+            "cluster": 28
+        },
+        {
+            "id": "G4940B_reserve_head_1",
+            "cluster": 28
+        },
+        {
+            "id": "G5411_AlabasterStatue_Fragment1",
+            "cluster": 4
+        },
+        {
+            "id": "G5030A-OBJ-001",
+            "cluster": 5
+        },
+        {
+            "id": "G4940-OBJ-001",
+            "cluster": 5
+        },
+        {
+            "id": "G4940-OBJ-002",
+            "cluster": 5
+        },
+        {
+            "id": "G4940-OBJ-003",
+            "cluster": 5
+        },
+        {
+            "id": "G4513_serdab_fragments_01",
+            "cluster": 7
+        },
+        {
+            "id": "G5010A_limestone_blocks_01",
+            "cluster": 7
+        },
+        {
+            "id": "G5010B_limestone_blocks_01",
+            "cluster": 7
+        },
+        {
+            "id": "G5030_offering_chamber_debris_01",
+            "cluster": 7
+        },
+        {
+            "id": "G5030_serdab_limestone_blocks_01",
+            "cluster": 7
+        },
+        {
+            "id": "G5020_G5120_street_limestone_fragments_01",
+            "cluster": 7
+        },
+        {
+            "id": "G5130A_sand_fill_01",
+            "cluster": 7
+        },
+        {
+            "id": "G2200B_19330130_1",
+            "cluster": 6
+        },
+        {
+            "id": "G2200B_19330130_2",
+            "cluster": 6
+        },
+        {
+            "id": "G2200B_19330130_3",
+            "cluster": 6
+        },
+        {
+            "id": "G2370S_19330130_1",
+            "cluster": 6
+        },
+        {
+            "id": "G2370S_19330130_2",
+            "cluster": 6
+        },
+        {
+            "id": "G2370S_19330130_3",
+            "cluster": 6
+        },
+        {
+            "id": "G5230A_19330130_1",
+            "cluster": 6
+        },
+        {
+            "id": "G5110_relief_fragments_01",
+            "cluster": 17
+        },
+        {
+            "id": "G5110_wooden_mallets_01",
+            "cluster": 17
+        },
+        {
+            "id": "G5221A_granite_scribe_head_01",
+            "cluster": 17
+        },
+        {
+            "id": "G5221A_alabaster_statuette_fragments_01",
+            "cluster": 17
+        },
+        {
+            "id": "Sinai_red_porphyry_fragment_01",
+            "cluster": 17
+        },
+        {
+            "id": "obj_19141112_01",
+            "cluster": 37
+        },
+        {
+            "id": "obj_19141112_02",
+            "cluster": 37
+        },
+        {
+            "id": "obj_19141112_03",
+            "cluster": 37
+        },
+        {
+            "id": "obj_19141112_04",
+            "cluster": 37
+        },
+        {
+            "id": "G7410B_MFA27.441_sarcophagus",
+            "cluster": 8
+        },
+        {
+            "id": "G7410B_coffin_end_north",
+            "cluster": 8
+        },
+        {
+            "id": "G7410B_coffin_side_upturned",
+            "cluster": 8
+        },
+        {
+            "id": "G7410B_coffin_end_south",
+            "cluster": 8
+        },
+        {
+            "id": "G5230S_frag_statuette_1",
+            "cluster": 15
+        },
+        {
+            "id": "G5230S_19150119_1",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_19150119_2",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_19150119_3",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_19150119_4",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_G5220_19150119_1",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_G5220_19150119_2",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_G5220_19150119_3",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_G5220_19150119_4",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S_G5220_19150119_5",
+            "cluster": 26
+        },
+        {
+            "id": "G5110_casingblock_inscription",
+            "cluster": 17
+        },
+        {
+            "id": "G5110_alabaster_statue_fragments",
+            "cluster": 17
+        },
+        {
+            "id": "Giza_pots_and_skulls",
+            "cluster": 17
+        },
+        {
+            "id": "G5110-5220-alabaster-statue-fragments-19141206",
+            "cluster": 11
+        },
+        {
+            "id": "G5110-5220-relief-fragments-19141206",
+            "cluster": 11
+        },
+        {
+            "id": "G5210-chapel-pottery-19141206",
+            "cluster": 11
+        },
+        {
+            "id": "G5221A-sealed-jars-19141206",
+            "cluster": 11
+        },
+        {
+            "id": "G5110_alabaster_statue_fragments_1",
+            "cluster": 10
+        },
+        {
+            "id": "G5110_limestone_relief_fragments_1",
+            "cluster": 10
+        },
+        {
+            "id": "G2370S-1933-01-31-01",
+            "cluster": 27
+        },
+        {
+            "id": "G2370S-1933-01-31-02",
+            "cluster": 27
+        },
+        {
+            "id": "G2370S-1933-01-31-03",
+            "cluster": 27
+        },
+        {
+            "id": "G2370S-1933-01-31-04",
+            "cluster": 27
+        },
+        {
+            "id": "14-11-112",
+            "cluster": 15
+        },
+        {
+            "id": "14-11-92",
+            "cluster": 15
+        },
+        {
+            "id": "14-11-93",
+            "cluster": 15
+        },
+        {
+            "id": "14-11-94",
+            "cluster": 15
+        },
+        {
+            "id": "14-11-95",
+            "cluster": 15
+        },
+        {
+            "id": "14-11-96",
+            "cluster": 15
+        },
+        {
+            "id": "14-11-97",
+            "cluster": 15
+        },
+        {
+            "id": "pot_G5230S_NE",
+            "cluster": 15
+        },
+        {
+            "id": "granite_limestone_fragments_G5230S",
+            "cluster": 15
+        },
+        {
+            "id": "G4940_FD_fragments_1-3",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_skull_1",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_potsherds_1",
+            "cluster": 9
+        },
+        {
+            "id": "G5227B_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5227B_02",
+            "cluster": 0
+        },
+        {
+            "id": "G5227B_03",
+            "cluster": 0
+        },
+        {
+            "id": "G5110-5131-limestone-fragments-19150126",
+            "cluster": 12
+        },
+        {
+            "id": "G5110-5131-alabaster-statuette-arm-19150126",
+            "cluster": 12
+        },
+        {
+            "id": "artifact_001",
+            "cluster": 0
+        },
+        {
+            "id": "artifact_002",
+            "cluster": 0
+        },
+        {
+            "id": "artifact_003",
+            "cluster": 0
+        },
+        {
+            "id": "G5110-5210-1914-12-22-01",
+            "cluster": 24
+        },
+        {
+            "id": "G5210-1914-12-22-02",
+            "cluster": 24
+        },
+        {
+            "id": "G5220D-1914-12-22-03",
+            "cluster": 24
+        },
+        {
+            "id": "G5223A-1914-12-22-04",
+            "cluster": 24
+        },
+        {
+            "id": "pit4-1914-12-22-05",
+            "cluster": 24
+        },
+        {
+            "id": "G5010_pitA_rockcut",
+            "cluster": 14
+        },
+        {
+            "id": "G5413A_01",
+            "cluster": 18
+        },
+        {
+            "id": "G5220B_01",
+            "cluster": 18
+        },
+        {
+            "id": "G5220B_02",
+            "cluster": 18
+        },
+        {
+            "id": "G5220B_03",
+            "cluster": 18
+        },
+        {
+            "id": "G5230_statue_body_fragment",
+            "cluster": 22
+        },
+        {
+            "id": "G5230_statue_fragment_other",
+            "cluster": 22
+        },
+        {
+            "id": "G5230_statue_leg_fragment",
+            "cluster": 22
+        },
+        {
+            "id": "4511-OC-01",
+            "cluster": 19
+        },
+        {
+            "id": "5030-ST-01",
+            "cluster": 19
+        },
+        {
+            "id": "5030B-PI-01",
+            "cluster": 19
+        },
+        {
+            "id": "5030B-PI-02",
+            "cluster": 19
+        },
+        {
+            "id": "4511-OC-02",
+            "cluster": 19
+        },
+        {
+            "id": "G4940B-OC-19150108-01",
+            "cluster": 21
+        },
+        {
+            "id": "G5010-ST-19150108-01",
+            "cluster": 21
+        },
+        {
+            "id": "G5110-SW-19150109-01",
+            "cluster": 21
+        },
+        {
+            "id": "14-11-1",
+            "cluster": 16
+        },
+        {
+            "id": "14-11-3",
+            "cluster": 16
+        },
+        {
+            "id": "14-11-4",
+            "cluster": 16
+        },
+        {
+            "id": "14-11-5",
+            "cluster": 16
+        },
+        {
+            "id": "14-11-6",
+            "cluster": 16
+        },
+        {
+            "id": "14-11-7",
+            "cluster": 16
+        },
+        {
+            "id": "14-11-8",
+            "cluster": 16
+        },
+        {
+            "id": "animal-bone-1914-11-10",
+            "cluster": 16
+        },
+        {
+            "id": "G5030B_LimestoneEar1",
+            "cluster": 19
+        },
+        {
+            "id": "G5030B_LimestoneEar2",
+            "cluster": 19
+        },
+        {
+            "id": "G4513_StatuetteHeadShoulder",
+            "cluster": 19
+        },
+        {
+            "id": "G4513_StatuetteBaseFeet",
+            "cluster": 19
+        },
+        {
+            "id": "G5030B_PotteryFragments",
+            "cluster": 19
+        },
+        {
+            "id": "G5030B_BronzeBowlFragments",
+            "cluster": 19
+        },
+        {
+            "id": "G5012_B_fragments",
+            "cluster": 20
+        },
+        {
+            "id": "G5020_offering_basin_15-1-35",
+            "cluster": 20
+        },
+        {
+            "id": "G5131_pottery_fragments_south",
+            "cluster": 20
+        },
+        {
+            "id": "G5020_pottery_fragments_north",
+            "cluster": 20
+        },
+        {
+            "id": "G5230S-1915-01-19-02",
+            "cluster": 26
+        },
+        {
+            "id": "G5230S-1915-01-19-03",
+            "cluster": 26
+        },
+        {
+            "id": "5230S-5220-1915-01-19-02",
+            "cluster": 26
+        },
+        {
+            "id": "5230S-5220-1915-01-19-03",
+            "cluster": 26
+        },
+        {
+            "id": "G5223_A_royal_alabaster_statue_fragments_1",
+            "cluster": 1
+        },
+        {
+            "id": "G5220_serdab4_skull",
+            "cluster": 1
+        },
+        {
+            "id": "G5220_serdab4_wooden_headrest",
+            "cluster": 1
+        },
+        {
+            "id": "G5220_serdab4_wooden_pieces",
+            "cluster": 1
+        },
+        {
+            "id": "14-11-13-1",
+            "cluster": 37
+        },
+        {
+            "id": "14-11-13-2",
+            "cluster": 37
+        },
+        {
+            "id": "14-11-13-3",
+            "cluster": 37
+        },
+        {
+            "id": "14-11-9",
+            "cluster": 29
+        },
+        {
+            "id": "14-11-10",
+            "cluster": 29
+        },
+        {
+            "id": "14-11-11",
+            "cluster": 29
+        },
+        {
+            "id": "A36-1",
+            "cluster": 3
+        },
+        {
+            "id": "A36-2",
+            "cluster": 3
+        },
+        {
+            "id": "A36-3",
+            "cluster": 3
+        },
+        {
+            "id": "artifact_001",
+            "cluster": 38
+        },
+        {
+            "id": "G4940B-01",
+            "cluster": 21
+        },
+        {
+            "id": "G5010-5110-01",
+            "cluster": 21
+        },
+        {
+            "id": "G5110-01",
+            "cluster": 21
+        },
+        {
+            "id": "G5330A_OK_pottery_001",
+            "cluster": 23
+        },
+        {
+            "id": "G5330A_floor_002",
+            "cluster": 23
+        },
+        {
+            "id": "G5210A_1914-12-24_01",
+            "cluster": 32
+        },
+        {
+            "id": "G5210A_1914-12-24_02",
+            "cluster": 32
+        },
+        {
+            "id": "G5110-5230-PLATFORM-1",
+            "cluster": 30
+        },
+        {
+            "id": "G5110-5230-DEBRIS-POTSHERDS-1",
+            "cluster": 30
+        },
+        {
+            "id": "G5020-ENTRANCE-MUDPLASTER-1",
+            "cluster": 30
+        },
+        {
+            "id": "G5131-EASTWALL-1",
+            "cluster": 30
+        },
+        {
+            "id": "G5130A-CHAMBER-SAND-1",
+            "cluster": 30
+        },
+        {
+            "id": "G5130B-PIT-ROCK-1",
+            "cluster": 30
+        },
+        {
+            "id": "G5130-5230-PLATFORM-2",
+            "cluster": 30
+        },
+        {
+            "id": "G5030-5040-DEBRIS-POTSHERDS-1",
+            "cluster": 30
+        },
+        {
+            "id": "G4940_B_model_pots_1",
+            "cluster": 25
+        },
+        {
+            "id": "G4940_C_model_pots_2",
+            "cluster": 25
+        },
+        {
+            "id": "G4940_A_potsherds_3",
+            "cluster": 25
+        },
+        {
+            "id": "G5110_Slab_01",
+            "cluster": 19
+        },
+        {
+            "id": "G5030_AlabasterJar_01",
+            "cluster": 19
+        },
+        {
+            "id": "G5030_AlabasterJar_02",
+            "cluster": 19
+        },
+        {
+            "id": "G5412A_foundations_19141216",
+            "cluster": 31
+        },
+        {
+            "id": "G5411_quarry_trenches_19141216",
+            "cluster": 31
+        },
+        {
+            "id": "G5220B_pit_19141216",
+            "cluster": 31
+        },
+        {
+            "id": "G5220B_north_wall_fragments_19141216",
+            "cluster": 31
+        },
+        {
+            "id": "G5020-5110-19150120-01",
+            "cluster": 36
+        },
+        {
+            "id": "G5010-5020-19150121-01",
+            "cluster": 36
+        },
+        {
+            "id": "G4940_FD_fragments_01",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_skull_01",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_potsherds_01",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_jar_01",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_jar_02",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_basin_01",
+            "cluster": 9
+        },
+        {
+            "id": "G5030A_bones_01",
+            "cluster": 9
+        },
+        {
+            "id": "G4940_skull_02",
+            "cluster": 9
+        },
+        {
+            "id": "G5210-5220-relief-fragments-1914-12-07",
+            "cluster": 11
+        },
+        {
+            "id": "G5110-alabaster-statuette-fragments-1914-12-07",
+            "cluster": 11
+        },
+        {
+            "id": "G5110-wooden-statuette-fragments-1914-12-07",
+            "cluster": 11
+        },
+        {
+            "id": "G5210-5220-alabaster-statue-fragments-1914-12-08",
+            "cluster": 11
+        },
+        {
+            "id": "G5210-5220-relief-fragments-1914-12-08",
+            "cluster": 11
+        },
+        {
+            "id": "4940_B_RoomB_ModelPotsSaucers_1",
+            "cluster": 35
+        },
+        {
+            "id": "4940_C_ModelPotsSaucers_2",
+            "cluster": 35
+        },
+        {
+            "id": "4940_NE_AlabasterHeadFragment_3",
+            "cluster": 35
+        },
+        {
+            "id": "4930B_Potsherds_4",
+            "cluster": 35
+        },
+        {
+            "id": "4930B_BronzeBowlFragments_5",
+            "cluster": 35
+        },
+        {
+            "id": "G4940_O_limestone_fragments",
+            "cluster": 35
+        },
+        {
+            "id": "G4940_alabaster_head_fragment",
+            "cluster": 35
+        },
+        {
+            "id": "G4930B_bent_bowl",
+            "cluster": 35
+        },
+        {
+            "id": "G4930B_RSW_jars",
+            "cluster": 35
+        },
+        {
+            "id": "G4930B_copper_plate_or_bowl_fragments",
+            "cluster": 35
+        },
+        {
+            "id": "G2200B_1",
+            "cluster": 13
+        },
+        {
+            "id": "G2200B_2",
+            "cluster": 13
+        },
+        {
+            "id": "G2200B_3",
+            "cluster": 13
+        },
+        {
+            "id": "G5230B_1",
+            "cluster": 13
+        },
+        {
+            "id": "G5230B_2",
+            "cluster": 13
+        },
+        {
+            "id": "G5230B_3",
+            "cluster": 13
+        },
+        {
+            "id": "G5210_statue_fragments_1",
+            "cluster": 33
+        },
+        {
+            "id": "14-11-73",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-74",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-75",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-76",
+            "cluster": 2
+        },
+        {
+            "id": "G5110-alabaster-chips",
+            "cluster": 2
+        },
+        {
+            "id": "G2200B_1",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_2",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_3",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_4",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_5",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_6",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_7",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_8",
+            "cluster": 34
+        },
+        {
+            "id": "G5230A_1",
+            "cluster": 34
+        },
+        {
+            "id": "G2200B_9",
+            "cluster": 34
+        }
+    ],
+    "semantic_cluster": [
+        {
+            "id": "G4940B_fragments_1",
+            "cluster": 0
+        },
+        {
+            "id": "G4940B_fragments_2",
+            "cluster": 0
+        },
+        {
+            "id": "G4940B_reserve_head_1",
+            "cluster": 2
+        },
+        {
+            "id": "G5411_AlabasterStatue_Fragment1",
+            "cluster": 0
+        },
+        {
+            "id": "G5030A-OBJ-001",
+            "cluster": 3
+        },
+        {
+            "id": "G4940-OBJ-001",
+            "cluster": 0
+        },
+        {
+            "id": "G4940-OBJ-002",
+            "cluster": 0
+        },
+        {
+            "id": "G4940-OBJ-003",
+            "cluster": 0
+        },
+        {
+            "id": "G4513_serdab_fragments_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5010A_limestone_blocks_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5010B_limestone_blocks_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5030_offering_chamber_debris_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5030_serdab_limestone_blocks_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5020_G5120_street_limestone_fragments_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5130A_sand_fill_01",
+            "cluster": 3
+        },
+        {
+            "id": "G2200B_19330130_1",
+            "cluster": 3
+        },
+        {
+            "id": "G2200B_19330130_2",
+            "cluster": 3
+        },
+        {
+            "id": "G2200B_19330130_3",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S_19330130_1",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S_19330130_2",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S_19330130_3",
+            "cluster": 2
+        },
+        {
+            "id": "G5230A_19330130_1",
+            "cluster": 3
+        },
+        {
+            "id": "G5110_relief_fragments_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5110_wooden_mallets_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5221A_granite_scribe_head_01",
+            "cluster": 2
+        },
+        {
+            "id": "G5221A_alabaster_statuette_fragments_01",
+            "cluster": 0
+        },
+        {
+            "id": "Sinai_red_porphyry_fragment_01",
+            "cluster": 2
+        },
+        {
+            "id": "obj_19141112_01",
+            "cluster": 1
+        },
+        {
+            "id": "obj_19141112_02",
+            "cluster": 1
+        },
+        {
+            "id": "obj_19141112_03",
+            "cluster": 1
+        },
+        {
+            "id": "obj_19141112_04",
+            "cluster": 1
+        },
+        {
+            "id": "G7410B_MFA27.441_sarcophagus",
+            "cluster": 0
+        },
+        {
+            "id": "G7410B_coffin_end_north",
+            "cluster": 0
+        },
+        {
+            "id": "G7410B_coffin_side_upturned",
+            "cluster": 0
+        },
+        {
+            "id": "G7410B_coffin_end_south",
+            "cluster": 0
+        },
+        {
+            "id": "G5230S_frag_statuette_1",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S_19150119_1",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S_19150119_2",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S_19150119_3",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S_19150119_4",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S_G5220_19150119_1",
+            "cluster": 0
+        },
+        {
+            "id": "G5230S_G5220_19150119_2",
+            "cluster": 0
+        },
+        {
+            "id": "G5230S_G5220_19150119_3",
+            "cluster": 0
+        },
+        {
+            "id": "G5230S_G5220_19150119_4",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S_G5220_19150119_5",
+            "cluster": 2
+        },
+        {
+            "id": "G5110_casingblock_inscription",
+            "cluster": 0
+        },
+        {
+            "id": "G5110_alabaster_statue_fragments",
+            "cluster": 0
+        },
+        {
+            "id": "Giza_pots_and_skulls",
+            "cluster": 4
+        },
+        {
+            "id": "G5110-5220-alabaster-statue-fragments-19141206",
+            "cluster": 0
+        },
+        {
+            "id": "G5110-5220-relief-fragments-19141206",
+            "cluster": 0
+        },
+        {
+            "id": "G5210-chapel-pottery-19141206",
+            "cluster": 4
+        },
+        {
+            "id": "G5221A-sealed-jars-19141206",
+            "cluster": 3
+        },
+        {
+            "id": "G5110_alabaster_statue_fragments_1",
+            "cluster": 0
+        },
+        {
+            "id": "G5110_limestone_relief_fragments_1",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S-1933-01-31-01",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S-1933-01-31-02",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S-1933-01-31-03",
+            "cluster": 0
+        },
+        {
+            "id": "G2370S-1933-01-31-04",
+            "cluster": 3
+        },
+        {
+            "id": "14-11-112",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-92",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-93",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-94",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-95",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-96",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-97",
+            "cluster": 4
+        },
+        {
+            "id": "pot_G5230S_NE",
+            "cluster": 4
+        },
+        {
+            "id": "granite_limestone_fragments_G5230S",
+            "cluster": 1
+        },
+        {
+            "id": "G4940_FD_fragments_1-3",
+            "cluster": 0
+        },
+        {
+            "id": "G4940_skull_1",
+            "cluster": 3
+        },
+        {
+            "id": "G4940_potsherds_1",
+            "cluster": 4
+        },
+        {
+            "id": "G5227B_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5227B_02",
+            "cluster": 3
+        },
+        {
+            "id": "G5227B_03",
+            "cluster": 4
+        },
+        {
+            "id": "G5110-5131-limestone-fragments-19150126",
+            "cluster": 2
+        },
+        {
+            "id": "G5110-5131-alabaster-statuette-arm-19150126",
+            "cluster": 0
+        },
+        {
+            "id": "artifact_001",
+            "cluster": 4
+        },
+        {
+            "id": "artifact_002",
+            "cluster": 4
+        },
+        {
+            "id": "artifact_003",
+            "cluster": 0
+        },
+        {
+            "id": "G5110-5210-1914-12-22-01",
+            "cluster": 1
+        },
+        {
+            "id": "G5210-1914-12-22-02",
+            "cluster": 1
+        },
+        {
+            "id": "G5220D-1914-12-22-03",
+            "cluster": 1
+        },
+        {
+            "id": "G5223A-1914-12-22-04",
+            "cluster": 1
+        },
+        {
+            "id": "pit4-1914-12-22-05",
+            "cluster": 1
+        },
+        {
+            "id": "G5010_pitA_rockcut",
+            "cluster": 1
+        },
+        {
+            "id": "G5413A_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5220B_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5220B_02",
+            "cluster": 3
+        },
+        {
+            "id": "G5220B_03",
+            "cluster": 0
+        },
+        {
+            "id": "G5230_statue_body_fragment",
+            "cluster": 2
+        },
+        {
+            "id": "G5230_statue_fragment_other",
+            "cluster": 2
+        },
+        {
+            "id": "G5230_statue_leg_fragment",
+            "cluster": 2
+        },
+        {
+            "id": "4511-OC-01",
+            "cluster": 0
+        },
+        {
+            "id": "5030-ST-01",
+            "cluster": 3
+        },
+        {
+            "id": "5030B-PI-01",
+            "cluster": 3
+        },
+        {
+            "id": "5030B-PI-02",
+            "cluster": 3
+        },
+        {
+            "id": "4511-OC-02",
+            "cluster": 2
+        },
+        {
+            "id": "G4940B-OC-19150108-01",
+            "cluster": 0
+        },
+        {
+            "id": "G5010-ST-19150108-01",
+            "cluster": 4
+        },
+        {
+            "id": "G5110-SW-19150109-01",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-1",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-3",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-4",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-5",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-6",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-7",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-8",
+            "cluster": 0
+        },
+        {
+            "id": "animal-bone-1914-11-10",
+            "cluster": 3
+        },
+        {
+            "id": "G5030B_LimestoneEar1",
+            "cluster": 2
+        },
+        {
+            "id": "G5030B_LimestoneEar2",
+            "cluster": 2
+        },
+        {
+            "id": "G4513_StatuetteHeadShoulder",
+            "cluster": 2
+        },
+        {
+            "id": "G4513_StatuetteBaseFeet",
+            "cluster": 2
+        },
+        {
+            "id": "G5030B_PotteryFragments",
+            "cluster": 4
+        },
+        {
+            "id": "G5030B_BronzeBowlFragments",
+            "cluster": 4
+        },
+        {
+            "id": "G5012_B_fragments",
+            "cluster": 4
+        },
+        {
+            "id": "G5020_offering_basin_15-1-35",
+            "cluster": 0
+        },
+        {
+            "id": "G5131_pottery_fragments_south",
+            "cluster": 4
+        },
+        {
+            "id": "G5020_pottery_fragments_north",
+            "cluster": 4
+        },
+        {
+            "id": "G5230S-1915-01-19-02",
+            "cluster": 2
+        },
+        {
+            "id": "G5230S-1915-01-19-03",
+            "cluster": 2
+        },
+        {
+            "id": "5230S-5220-1915-01-19-02",
+            "cluster": 0
+        },
+        {
+            "id": "5230S-5220-1915-01-19-03",
+            "cluster": 0
+        },
+        {
+            "id": "G5223_A_royal_alabaster_statue_fragments_1",
+            "cluster": 0
+        },
+        {
+            "id": "G5220_serdab4_skull",
+            "cluster": 3
+        },
+        {
+            "id": "G5220_serdab4_wooden_headrest",
+            "cluster": 3
+        },
+        {
+            "id": "G5220_serdab4_wooden_pieces",
+            "cluster": 3
+        },
+        {
+            "id": "14-11-13-1",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-13-2",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-13-3",
+            "cluster": 4
+        },
+        {
+            "id": "14-11-9",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-10",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-11",
+            "cluster": 0
+        },
+        {
+            "id": "A36-1",
+            "cluster": 0
+        },
+        {
+            "id": "A36-2",
+            "cluster": 3
+        },
+        {
+            "id": "A36-3",
+            "cluster": 1
+        },
+        {
+            "id": "artifact_001",
+            "cluster": 1
+        },
+        {
+            "id": "G4940B-01",
+            "cluster": 3
+        },
+        {
+            "id": "G5010-5110-01",
+            "cluster": 3
+        },
+        {
+            "id": "G5110-01",
+            "cluster": 1
+        },
+        {
+            "id": "G5330A_OK_pottery_001",
+            "cluster": 4
+        },
+        {
+            "id": "G5330A_floor_002",
+            "cluster": 0
+        },
+        {
+            "id": "G5210A_1914-12-24_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5210A_1914-12-24_02",
+            "cluster": 4
+        },
+        {
+            "id": "G5110-5230-PLATFORM-1",
+            "cluster": 1
+        },
+        {
+            "id": "G5110-5230-DEBRIS-POTSHERDS-1",
+            "cluster": 4
+        },
+        {
+            "id": "G5020-ENTRANCE-MUDPLASTER-1",
+            "cluster": 1
+        },
+        {
+            "id": "G5131-EASTWALL-1",
+            "cluster": 1
+        },
+        {
+            "id": "G5130A-CHAMBER-SAND-1",
+            "cluster": 1
+        },
+        {
+            "id": "G5130B-PIT-ROCK-1",
+            "cluster": 1
+        },
+        {
+            "id": "G5130-5230-PLATFORM-2",
+            "cluster": 1
+        },
+        {
+            "id": "G5030-5040-DEBRIS-POTSHERDS-1",
+            "cluster": 1
+        },
+        {
+            "id": "G4940_B_model_pots_1",
+            "cluster": 4
+        },
+        {
+            "id": "G4940_C_model_pots_2",
+            "cluster": 4
+        },
+        {
+            "id": "G4940_A_potsherds_3",
+            "cluster": 4
+        },
+        {
+            "id": "G5110_Slab_01",
+            "cluster": 0
+        },
+        {
+            "id": "G5030_AlabasterJar_01",
+            "cluster": 3
+        },
+        {
+            "id": "G5030_AlabasterJar_02",
+            "cluster": 3
+        },
+        {
+            "id": "G5412A_foundations_19141216",
+            "cluster": 1
+        },
+        {
+            "id": "G5411_quarry_trenches_19141216",
+            "cluster": 1
+        },
+        {
+            "id": "G5220B_pit_19141216",
+            "cluster": 1
+        },
+        {
+            "id": "G5220B_north_wall_fragments_19141216",
+            "cluster": 1
+        },
+        {
+            "id": "G5020-5110-19150120-01",
+            "cluster": 3
+        },
+        {
+            "id": "G5010-5020-19150121-01",
+            "cluster": 3
+        },
+        {
+            "id": "G4940_FD_fragments_01",
+            "cluster": 0
+        },
+        {
+            "id": "G4940_skull_01",
+            "cluster": 3
+        },
+        {
+            "id": "G4940_potsherds_01",
+            "cluster": 4
+        },
+        {
+            "id": "G4940_jar_01",
+            "cluster": 3
+        },
+        {
+            "id": "G4940_jar_02",
+            "cluster": 3
+        },
+        {
+            "id": "G4940_basin_01",
+            "cluster": 4
+        },
+        {
+            "id": "G5030A_bones_01",
+            "cluster": 3
+        },
+        {
+            "id": "G4940_skull_02",
+            "cluster": 3
+        },
+        {
+            "id": "G5210-5220-relief-fragments-1914-12-07",
+            "cluster": 0
+        },
+        {
+            "id": "G5110-alabaster-statuette-fragments-1914-12-07",
+            "cluster": 0
+        },
+        {
+            "id": "G5110-wooden-statuette-fragments-1914-12-07",
+            "cluster": 0
+        },
+        {
+            "id": "G5210-5220-alabaster-statue-fragments-1914-12-08",
+            "cluster": 0
+        },
+        {
+            "id": "G5210-5220-relief-fragments-1914-12-08",
+            "cluster": 0
+        },
+        {
+            "id": "4940_B_RoomB_ModelPotsSaucers_1",
+            "cluster": 4
+        },
+        {
+            "id": "4940_C_ModelPotsSaucers_2",
+            "cluster": 4
+        },
+        {
+            "id": "4940_NE_AlabasterHeadFragment_3",
+            "cluster": 0
+        },
+        {
+            "id": "4930B_Potsherds_4",
+            "cluster": 4
+        },
+        {
+            "id": "4930B_BronzeBowlFragments_5",
+            "cluster": 4
+        },
+        {
+            "id": "G4940_O_limestone_fragments",
+            "cluster": 0
+        },
+        {
+            "id": "G4940_alabaster_head_fragment",
+            "cluster": 0
+        },
+        {
+            "id": "G4930B_bent_bowl",
+            "cluster": 4
+        },
+        {
+            "id": "G4930B_RSW_jars",
+            "cluster": 4
+        },
+        {
+            "id": "G4930B_copper_plate_or_bowl_fragments",
+            "cluster": 4
+        },
+        {
+            "id": "G2200B_1",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_2",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_3",
+            "cluster": 2
+        },
+        {
+            "id": "G5230B_1",
+            "cluster": 0
+        },
+        {
+            "id": "G5230B_2",
+            "cluster": 3
+        },
+        {
+            "id": "G5230B_3",
+            "cluster": 2
+        },
+        {
+            "id": "G5210_statue_fragments_1",
+            "cluster": 0
+        },
+        {
+            "id": "14-11-73",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-74",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-75",
+            "cluster": 2
+        },
+        {
+            "id": "14-11-76",
+            "cluster": 2
+        },
+        {
+            "id": "G5110-alabaster-chips",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_1",
+            "cluster": 2
+        },
+        {
+            "id": "G2200B_2",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_3",
+            "cluster": 3
+        },
+        {
+            "id": "G2200B_4",
+            "cluster": 3
+        },
+        {
+            "id": "G2200B_5",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_6",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_7",
+            "cluster": 0
+        },
+        {
+            "id": "G2200B_8",
+            "cluster": 3
+        },
+        {
+            "id": "G5230A_1",
+            "cluster": 2
+        },
+        {
+            "id": "G2200B_9",
+            "cluster": 0
+        }
+    ]
+}

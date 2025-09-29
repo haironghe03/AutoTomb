@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AutoTomb VR - Giza Excavation Explorer</title>
+  <meta name="description" content="Virtual Reality exploration of Giza excavation artifacts" />
+
+  <!-- A-Frame core -->
+  <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+
+  <!-- movement-controls (fly:true) -->
+  <script src="https://cdn.jsdelivr.net/npm/aframe-extras@7.4.0/dist/aframe-extras.min.js"></script>
+
+  <!-- Modular micro-components & UI (root-level) -->
+  <script src="components.js"></script>
+  <script src="ui.js"></script>
+
+  <!-- App logic -->
+  <script src="tomb-manager.js"></script>
+  <script src="app.js"></script>
+
+  <style>
+    body { margin: 0; }
+
+    /* Settings dropdown (desktop) - left-justified */
+    #settings {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      z-index: 1000;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      user-select: none;
+    }
+    .settings-toggle {
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(18,18,18,0.9);
+      color: #fff;
+      padding: 8px 12px;
+      font-size: 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      backdrop-filter: blur(6px);
+    }
+    .settings-toggle:hover { background: rgba(25,25,25,0.9); }
+
+    .settings-panel {
+      margin-top: 8px;
+      width: 360px;
+      border: 1px solid rgba(255,255,255,0.15);
+      background: rgba(18,18,18,0.9);
+      color: #eee;
+      border-radius: 10px;
+      padding: 12px;
+      backdrop-filter: blur(6px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+    }
+    .hidden { display: none; }
+
+    .tomb-subheader {
+      font-size: 13px;
+      color: #caa85b;
+      margin-bottom: 10px;
+      opacity: 0.95;
+    }
+
+    .settings-section + .settings-section { margin-top: 12px; }
+    .settings-section h4 {
+      margin: 0 0 8px 0;
+      font-size: 13px;
+      color: #caa85b;
+      letter-spacing: .2px;
+      text-transform: uppercase;
+    }
+    .radio-group label {
+      display: block;
+      font-size: 14px;
+      line-height: 1.7;
+      cursor: pointer;
+    }
+    .radio-group input { margin-right: 8px; }
+
+    .console {
+      margin-top: 6px;
+      font-size: 13px;
+      color: #fff;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 8px;
+      padding: 8px;
+      min-height: 44px;
+      max-height: 140px;
+      overflow: auto;
+      white-space: pre-wrap;
+    }
+    .console .hint { color: #bbb; font-style: italic; }
+    .cluster-item { margin: 2px 0; }
+    .cluster-term { color: #DAA520; font-weight: 600; }
+
+    /* Date range slider (dual handle) */
+    .date-slider {
+      position: relative;
+      padding: 8px 8px 4px 8px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .date-slider .row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .range-wrap { position: relative; }
+    .range {
+      width: 100%;
+      -webkit-appearance: none;
+      appearance: none;
+      height: 4px;
+      background: rgba(255,255,255,0.2);
+      border-radius: 2px;
+      outline: none;
+    }
+    .range::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 14px; height: 14px; border-radius: 50%;
+      background: #DAA520; cursor: pointer; border: none;
+    }
+    .date-slider .labels {
+      display: flex; justify-content: space-between;
+      font-size: 12px; color: #ddd; margin-top: 6px;
+    }
+
+    /* Toggles */
+    .toggle-row { display: flex; gap: 10px; align-items: center; }
+    .toggle-row input { margin-right: 6px; }
+  </style>
+</head>
+<body>
+  <!-- Desktop Settings menu -->
+  <div id="settings">
+    <button id="settings-toggle" class="settings-toggle">Settings ▾</button>
+    <div id="settings-panel" class="settings-panel hidden">
+      <div id="tomb-subheader" class="tomb-subheader">Tomb: —</div>
+
+      <div class="settings-section">
+        <h4>Layout</h4>
+        <div class="radio-group" id="layout-group">
+          <!-- Location option removed -->
+          <label><input type="radio" name="layout" value="semantic" checked> Semantic</label>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h4>Date</h4>
+        <div id="date-slider" class="date-slider">
+          <div class="row">
+            <div class="range-wrap">
+              <input id="date-range-min" type="range" min="0" max="0" value="0" class="range">
+            </div>
+            <div class="range-wrap">
+              <input id="date-range-max" type="range" min="0" max="0" value="0" class="range">
+            </div>
+          </div>
+          <div class="labels">
+            <span id="date-label-from">—</span>
+            <span id="date-label-to">—</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h4>Object</h4>
+        <div id="label-console" class="console">
+          <span class="hint">Hover an artifact to preview its title here…</span>
+        </div>
+      </div>
+
+      <!-- NEW: Cluster console (restored) -->
+      <div class="settings-section">
+        <h4>Cluster</h4>
+        <div id="cluster-console" class="console">
+          <span class="hint">No clusters detected…</span>
+        </div>
+      </div>
+
+      <div class="settings-section">
+        <h4>Extras</h4>
+        <div class="toggle-row">
+          <label><input type="checkbox" id="toggle-skybox" checked> Skybox</label>
+          <label><input type="checkbox" id="toggle-camp" checked> Harvard Camp</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scene (unchanged: positions & rotations preserved) -->
+  <a-scene
+    background="color: #1a1a1a"
+    vr-mode-ui="enabled: true"
+    renderer="colorManagement: true; physicallyCorrectLights: true"
+    artifact-viewer
+  >
+    <a-assets>
+      <img id="pano" src="qwantani_noon_puresky.jpg" />
+      <a-asset-item id="camp" src="harvard_camp_empty.glb" crossorigin="anonymous"></a-asset-item>
+    </a-assets>
+
+    <a-sky id="skybox" src="#pano" rotation="0 -90 0"></a-sky>
+
+    <a-light type="ambient" color="#664422" intensity="0.6"></a-light>
+    <a-light type="directional" position="-30 5 10" color="#fff" intensity="0.8" shadow="cast: true"></a-light>
+
+    <a-light type="ambient" color="#664422" intensity="1.0"></a-light>
+    <a-light type="directional" position="0 50 0" color="#fff" intensity="0.8" shadow="cast: true"></a-light>
+
+    <a-entity id="rig" movement-controls="fly: true; speed: 0.12" position="-2 2 7" rotation="0 90 0">
+      <a-entity camera look-controls>
+        <a-cursor color="#DAA520" raycaster="objects: .clickable"></a-cursor>
+      </a-entity>
+    </a-entity>
+
+    <a-entity
+      id="harvard-camp"
+      gltf-model="#camp"
+      position="0 0 10"
+      rotation="0 0 0"
+      scale="1 1 1"
+      shadow="cast: true; receive: true"
+    ></a-entity>
+
+    <a-entity id="artifacts" position="-30 5 10" rotation="0 90 0"></a-entity>
+
+    <a-text id="tomb-info" position="0 4 -8" align="center" color="#DAA520" value="AutoTomb VR - Loading..." width="8"></a-text>
+    <a-text id="info"      position="0 3 -8" align="center" color="white"   value="Loading tomb data..."    width="6"></a-text>
+  </a-scene>
+</body>
+</html>
