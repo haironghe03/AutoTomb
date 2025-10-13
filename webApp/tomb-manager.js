@@ -68,7 +68,9 @@ class TombManager {
 
     getModelPath(artifactId) {
         const tomb = this.getCurrentTomb();
-        return `./${tomb.models_folder}${artifactId}.glb`;
+        // Use R2 Public Development URL for production
+        const r2BaseUrl = "https://pub-44de54f146df475189f71baeda65df6b.r2.dev";
+        return `${r2BaseUrl}/${artifactId}.glb`;
     }
 
     getAvailableTombs() {
