@@ -8,7 +8,9 @@
 
   <!-- A-Frame core -->
   <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
-
+ 
+  <!-- Meshopt decoder -->
+  <script src="https://cdn.jsdelivr.net/npm/meshoptimizer/meshopt_decoder.js"></script>
   <!-- movement-controls (fly:true) -->
   <script src="https://cdn.jsdelivr.net/npm/aframe-extras@7.4.0/dist/aframe-extras.min.js"></script>
 
@@ -19,6 +21,52 @@
   <!-- App logic -->
   <script src="tomb-manager.js"></script>
   <script src="app.js"></script>
+
+    <!-- KTX2 loader + Basis transcoder (classic, global THREE) -->
+  <script src="https://unpkg.com/three@0.173.0/examples/js/loaders/KTX2Loader.js"></script>
+  <script src="https://unpkg.com/three@0.173.0/examples/js/libs/basis/basis_transcoder.js"></script>
+  <!-- basis_transcoder.wasm will be fetched from the same folder as the line above -->
+  <script>
+    /* Ensure every gltf-model gets KTX2 + Meshopt, regardless of load order */
+    (function () {
+      function install() {
+        const THREE = AFRAME.THREE;
+    
+        // Use the global THREE loader added by the classic script tag
+        const ktx2 = new window.THREE.KTX2Loader()
+          .setTranscoderPath('/basis/');
+    
+        const Proto = AFRAME.components['gltf-model'].Component.prototype;
+    
+        // Save original init so we can call it
+        const origInit = Proto.init;
+    
+        Proto.init = function () {
+          // Call A-Frame's original init (creates this.loader)
+          if (origInit) origInit.call(this);
+    
+          // Ensure loader exists
+          this.loader = this.loader || new THREE.GLTFLoader();
+    
+          // Detect GPU support as soon as renderer exists
+          const sceneEl = this.el.sceneEl;
+          const detect = () => ktx2.detectSupport(sceneEl.renderer);
+          if (sceneEl.renderer) detect();
+          else sceneEl.addEventListener('rendererinitialized', detect, { once: true });
+    
+          // Attach decoders BEFORE any load happens
+          this.loader.setKTX2Loader(ktx2);
+          this.loader.setMeshoptDecoder(MeshoptDecoder);
+        };
+      }
+    
+      // Run after A-Frame is ready
+      if (window.AFRAME) install();
+      else window.addEventListener('aframeready', install);
+    })();
+    </script>
+    
+
 
   <style>
     body { margin: 0; }
