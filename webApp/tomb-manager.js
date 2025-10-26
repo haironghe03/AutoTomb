@@ -69,7 +69,8 @@ class TombManager {
     getModelPath(artifactId) {
         const tomb = this.getCurrentTomb();
         // Use R2 Public Development URL for production
-        const r2BaseUrl = "https://pub-44de54f146df475189f71baeda65df6b.r2.dev";
+        // const r2BaseUrl = "https://pub-44de54f146df475189f71baeda65df6b.r2.dev";
+        const r2BaseUrl = "https://pub-61fda54bf4184ea5aed0865b2db2bd3b.r2.dev"; // Low-Res
         return `${r2BaseUrl}/${artifactId}.glb`;
     }
 
